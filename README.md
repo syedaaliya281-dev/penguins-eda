@@ -35,5 +35,5 @@ Source: https://allisonhorst.github.io/palmerpenguins/
 Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ## How to run
-1. Download `Penguins_EDA.ipynb` and `penguins.csv` into the same folder.
+1. Download `EDA_Project.ipynb` and `penguins.csv` into the same folder.
 2. Open the notebook in Jupyter and run all cells.
